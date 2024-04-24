@@ -3,14 +3,14 @@ Library    SeleniumLibrary
 Variables    var.py
  
 *** Keywords ***
-#Login Account
-    #Open Browser    ${url_saucedemo}    chrome
-    #Sleep    4s
-    #Input Text    ${userName}    standard_user
-    #Sleep    4s
-    #Input Text    ${pw}    secret_sauce
-    #Sleep    4s
-    #Click Button    ${loginButton}   
+Login Account
+    Open Browser    ${url_saucedemo}    chrome
+    Sleep    4s
+    Input Text    ${userName}    standard_user
+    Sleep    4s
+    Input Text    ${pw}    secret_sauce
+    Sleep    4s
+    Click Button    ${loginButton}   
 
 #Doing fiter product
     #Open Browser    ${url_saucedemo}    chrome
