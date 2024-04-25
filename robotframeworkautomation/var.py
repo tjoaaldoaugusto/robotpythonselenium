@@ -21,3 +21,35 @@ removeSaucelabsbikeLight= 'remove-sauce-labs-bike-light'
 contShopping= 'id=continue-shopping'
 
 filltheForm= 'id=checkout'
+
+cancelButton= 'id=cancel'
+
+continuebutton= 'id=continue'
+
+firstname= 'id=first-name'
+
+lastname= 'id=last-name'
+
+postalcode= 'id=postal-code'
+
+nameitem= 'class=inventory_item_name'
+
+descitem= 'class=inventory_item_desc'
+
+priceitem= 'class=inventory_item_price'
+
+infolabel= 'class=summary_info_label'
+
+valuelabel= 'class=summary_value_label'
+
+subtotallabel= 'class=summary_subtotal_label'
+
+taxlabel= 'class=summary_tax_label'
+
+totallabel= 'class=summary_total_label' 
+
+finish= 'id=finish'
+
+checkimg= 'class=pony_express'
+
+backhomebutton= 'id=back-to-products'
